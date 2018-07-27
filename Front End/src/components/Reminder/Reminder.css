@@ -1,0 +1,8 @@
+.card {
+    width: 700px;
+    background: white;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    text-align: left;
+  }
